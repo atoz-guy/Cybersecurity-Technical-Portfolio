@@ -4,5 +4,5 @@ Hands-on labs from TCM Security's PSAA course. Each one goes past the technical 
 
 | Lab | Topic | Key controls |
 |---|---|---|
-| [Lab 001](Lab-001-Access-Control-Review.md) | Internal access control review | PS-4, AC-2, AC-7 |
+| [Lab 001](../PSAA-ServiceNow/GRC-Audit-Report-001.md) | Internal access control review | PS-4, AC-2, AC-7 |
 | [Lab 002](Lab-002-Phishing-Investigation.md) | Phishing & BEC investigation | IA-2(1), SI-8, AT-2 |
