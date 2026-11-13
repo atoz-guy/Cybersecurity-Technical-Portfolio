@@ -1,0 +1,23 @@
+# Lab 02: Network Security - tcpdump Challenge 1
+
+## Objective
+Analyze network traffic captures to identify malicious activity using command-line tools.
+
+## Tools Used
+- `tcpdump`
+
+## Key Commands
+- (As you progress through the lab, record the commands you run here, e.g., `tcpdump -r capture.pcap`)
+
+## Analysis & Findings
+- **Investigation Step 1:** (What did you look for?)
+- **Suspicious Activity:** (Did you find any unusual ports, IPs, or protocols?)
+- **Result:** (What was the outcome of the challenge?)
+
+## Lessons Learned
+- (Brief note on how `tcpdump` helped you see what was happening on the wire)
+
+
+flags (like -n, -r, or -i) 
+filter expression (like port 80 or host 192.168.1.1)
+Key Commands as well—that is the "how-to" knowledge that interviewers love to see.

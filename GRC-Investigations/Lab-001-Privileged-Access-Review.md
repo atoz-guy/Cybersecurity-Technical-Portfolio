@@ -1,7 +1,7 @@
-# GRC Audit Report: Internal Access Control Review
+# Lab 001: Privileged Access Review
 
 **Date:** 2026-05-11
-**Auditor:** [@atoz-guy](https://github.com/atoz-guy)
+**Reviewer:** [@atoz-guy](https://github.com/atoz-guy)
 **Framework:** NIST 800-53 (Access Control, Personnel Security)
 
 ## 1. Executive Summary

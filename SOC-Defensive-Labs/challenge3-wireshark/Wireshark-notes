@@ -1,0 +1,27 @@
+# Lab 03: Network Security - Wireshark Challenge 1
+
+## Objective
+Analyze captured traffic using Wireshark to perform deep packet inspection and identify anomalies.
+
+## Tools Used
+- Wireshark
+
+## Key Commands & Filters
+- (Record your filters here as you use them, e.g., `http`, `tcp.port == 80`, `ip.addr == 192.168.1.5`)
+
+## Analysis & Findings
+- **Investigation Step 1:** (e.g., Opening the capture file, filtering by HTTP traffic)
+- **Suspicious Activity:** (e.g., Finding unusual GET requests or POST data)
+- **Result:** (Briefly state what you discovered—e.g., "Identified unauthorized data transfer to [IP Address]")
+
+## Lessons Learned
+- (Document one thing Wireshark made easier to see compared to tcpdump, like following a TCP stream)
+
+
+The "Wireshark Analysis Log"
+When you open that challenge, don't just stare at the screen. Immediately open your wireshark-notes.md file in a split-screen view. Every time you find something, drop it into your Analysis Notes.
+
+Pro Tip for Wireshark: 
+Keep a "Filter Cheat Sheet" at the top of your wireshark-notes.md. 
+If you find yourself typing a filter you like (e.g., http.request.method == "GET")
+"Key Commands" section of your file so you can copy-paste it later if you need to run it again.
