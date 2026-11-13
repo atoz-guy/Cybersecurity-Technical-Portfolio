@@ -10,14 +10,14 @@ For my GRC focus and roadmap, see [GRC-Governance-Risk-Compliance](https://githu
 
 ## What's here
 
-| Folder | What's in it |
-|---|---|
-| [SOC-Defensive-Labs](SOC-Defensive-Labs) | TCM Security PSAA labs: Wireshark, tcpdump, Snort, Splunk, endpoint triage, MITRE ATT&CK, YARA |
-| [GRC-Labs](GRC-Labs) | **Analysis (after it happens):** credential phishing investigation with risk scores, NIST 800-53 gaps and remediation. **Engineering (before it happens):** 5 policy-as-code labs from GRC Playground |
-| [Forward-Deployed-Identity-Security](Forward-Deployed-Identity-Security) | Work in progress: CyberArk PAM, Microsoft Entra, and connecting both to ServiceNow |
-| [Cloud-Security-Labs](Cloud-Security-Labs) | Azure (AZ-104) and Microsoft 365 compliance and identity labs |
-| [Service-Desk-Labs](Service-Desk-Labs) | Help desk case studies from TCM PHDA: lockouts, permissions, networking, ticket lifecycle |
-| [tools/simulations](tools/simulations) | Simulation projects |
+| Folder | What's in it | Related certs |
+|---|---|---|
+| [SOC-Defensive-Labs](SOC-Defensive-Labs) | TCM Security PSAA labs: Wireshark, tcpdump, Snort, Splunk, endpoint triage, MITRE ATT&CK, YARA | Security+, ServiceNow CIS-SIR, TCM PSAA (in progress) |
+| [GRC-Labs](GRC-Labs) | **Analysis (after it happens):** credential phishing investigation with risk scores, NIST 800-53 gaps and remediation. **Engineering (before it happens):** 5 policy-as-code labs from GRC Playground | CRISC (exam passed), ServiceNow CIS-RC, CISM (next) |
+| [Forward-Deployed-Identity-Security](Forward-Deployed-Identity-Security) | Work in progress: CyberArk PAM, Microsoft Entra, and connecting both to ServiceNow | SC-300, SC-100, ServiceNow SecOps, CyberArk (planned) |
+| [Cloud-Security-Labs](Cloud-Security-Labs) | Azure and Microsoft 365 compliance and identity labs | AZ-104, SC-300, SC-401, SC-100 |
+| [Service-Desk-Labs](Service-Desk-Labs) | Help desk case studies from TCM PHDA: lockouts, permissions, networking, ticket lifecycle | TCM PHDA, ServiceNow CSA |
+| [tools/simulations](tools/simulations) | Simulation projects | |
 
 ---
 

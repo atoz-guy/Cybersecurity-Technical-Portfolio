@@ -2,6 +2,8 @@
 
 How I handle IT support tickets from start to finish: triage, troubleshooting, resolution and documentation. Built during TCM Security's Practical Help Desk Associate (PHDA) training using Spiceworks Cloud Help Desk.
 
+**Related certifications:** TCM PHDA, ServiceNow CSA (Certified System Administrator)
+
 This is the ITSM foundation under my ServiceNow work. Ticket lifecycle, priorities and SLAs are the same ideas ServiceNow is built on.
 
 *Moved here from my old Cloud-IT-Service-Management-Workflow repo. The commit history came with it.*

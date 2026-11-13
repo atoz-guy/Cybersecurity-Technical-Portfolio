@@ -2,6 +2,8 @@
 
 GRC work happens on both sides of an incident.
 
+**Related certifications:** ISACA CRISC (exam passed), ServiceNow CIS-RC (Risk and Compliance), ISACA CISM and CISA (booking next)
+
 | Folder | When | What it does |
 |---|---|---|
 | [Analysis-After-It-Happens](Analysis-After-It-Happens) | **After something happens** | Investigate it, score the risk, find which controls failed, and write up the fix |

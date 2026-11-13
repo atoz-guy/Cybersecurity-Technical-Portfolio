@@ -2,6 +2,8 @@
 
 *Work in progress. This is my plan and where the labs will go as I build them.*
 
+**Related certifications:** SC-300 Identity and Access Administrator, SC-100 Cybersecurity Architect, ServiceNow SecOps (CIS-DF, CIS-SIR, CIS-VR), CyberArk (planned)
+
 A forward deployed engineer doesn't just know a tool. They deploy it in a real environment, connect it to the systems around it, and make it part of how the business runs. This track is how I'm building toward that for identity and privileged access.
 
 There are three layers:

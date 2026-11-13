@@ -2,6 +2,8 @@
 
 Hands-on defensive security work from TCM Security's Practical SOC Analyst Associate (PSAA) track: network traffic analysis, endpoint triage, log analysis and threat intel.
 
+**Related certifications:** CompTIA Security+, ServiceNow CIS-SIR (Security Incident Response), TCM PSAA (in progress)
+
 *Moved here from my old TCM-Enterprise-Security-Labs repo so all my security work is in one place. The commit history came with it.*
 
 ## Tools and skills
