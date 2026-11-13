@@ -1,6 +1,6 @@
 # Case Study #4: User Permission and Access Management
 
-**Ticket ID:** #1042
+**Ticket ID:** #1044
 **Category:** Active Directory
 **Priority:** Medium
 
