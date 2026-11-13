@@ -1,6 +1,7 @@
 # Case Study #5: Printer Spooler Troubleshooting
 
 ## Incident Details
+* **Ticket ID:** #1045
 * **Category:** Peripherals and Workstation
 * **Priority:** Medium
 * **Status:** Has been Resolved

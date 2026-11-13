@@ -4,6 +4,7 @@
 As part of establishing a Cloud-IT Service Management (ITSM) infrastructure for my home lab, I performed the initial configuration and verification of the Spiceworks Cloud Help Desk instance.
 
 ## Incident Details
+* **Ticket ID:** #1041
 * **Category:** System Administration and new client Onboarding
 * **Status:** Resolved
 * **Objective:**  Was to Ensure the ticketing intake system is operational and completely audit-ready.
