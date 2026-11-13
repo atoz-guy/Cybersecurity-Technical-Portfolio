@@ -41,4 +41,4 @@ This is the ITSM foundation under my ServiceNow work. Ticket lifecycle, prioriti
 
 ## The GRC angle
 
-Cases 2 and 4 are access control problems: lockouts and permissions. In NIST 800-53 those fall under **AC-2** (account management) and **AC-7** (failed logon attempts), the same controls that show up in my [GRC Investigations](../GRC-Investigations).
+Cases 2 and 4 are access control problems: lockouts and permissions. In NIST 800-53 those fall under **AC-2** (account management) and **AC-7** (failed logon attempts), the same controls that show up in my [GRC-Labs](../GRC-Labs).

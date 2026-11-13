@@ -28,4 +28,4 @@ Hands-on defensive security work from TCM Security's Practical SOC Analyst Assoc
 
 There's also a [phishing report template](phishing-template) I use for write-ups.
 
-For the GRC side of these investigations (risk scores, NIST controls, ServiceNow tracking), see [GRC-Investigations](../GRC-Investigations).
+For the GRC side of these investigations (risk scores, NIST controls, ServiceNow tracking), see [GRC-Labs](../GRC-Labs).

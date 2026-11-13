@@ -13,7 +13,7 @@ For my GRC focus and roadmap, see [GRC-Governance-Risk-Compliance](https://githu
 | Folder | What's in it |
 |---|---|
 | [SOC-Defensive-Labs](SOC-Defensive-Labs) | TCM Security PSAA labs: Wireshark, tcpdump, Snort, Splunk, endpoint triage, MITRE ATT&CK, YARA |
-| [GRC-Investigations](GRC-Investigations) | TCM Security PSAA cases taken further: a phishing and BEC investigation with risk scores, NIST 800-53 control gaps and remediation |
+| [GRC-Labs](GRC-Labs) | **Analysis (after it happens):** phishing investigation with risk scores, NIST 800-53 gaps and remediation. **Engineering (before it happens):** policy-as-code labs from GRC Playground |
 | [Forward-Deployed-Identity-Security](Forward-Deployed-Identity-Security) | Work in progress: CyberArk PAM, Microsoft Entra, and connecting both to ServiceNow |
 | [Cloud-Security-Labs](Cloud-Security-Labs) | Azure (AZ-104) and Microsoft 365 compliance and identity labs |
 | [Service-Desk-Labs](Service-Desk-Labs) | Help desk case studies from TCM PHDA: lockouts, permissions, networking, ticket lifecycle |
@@ -24,7 +24,7 @@ For my GRC focus and roadmap, see [GRC-Governance-Risk-Compliance](https://githu
 ## How the pieces connect
 
 1. **Detect:** a SOC lab finds something (a phishing email, a strange login, bad traffic)
-2. **Score:** rate it with Likelihood x Impact using my [risk matrix](GRC-Investigations/risk-matrix.md)
+2. **Score:** rate it with Likelihood x Impact using my [risk matrix](GRC-Labs/Analysis-After-It-Happens/risk-matrix.md)
 3. **Map:** find the NIST 800-53 controls that should have stopped it
 4. **Track:** open it in ServiceNow and follow it to closure
 

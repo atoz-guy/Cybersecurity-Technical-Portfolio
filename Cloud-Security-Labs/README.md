@@ -18,4 +18,4 @@ Hands-on Microsoft cloud labs: Azure infrastructure and governance, and Microsof
 ## How it connects
 
 - **Identity:** the Entra labs here feed into my [Forward-Deployed-Identity-Security](../Forward-Deployed-Identity-Security) track
-- **GRC:** Compliance Manager, retention and DLP are where policy turns into enforced settings. That's the technical side of the controls in my [GRC Investigations](../GRC-Investigations)
+- **GRC:** Compliance Manager, retention and DLP are where policy turns into enforced settings. That's the technical side of the controls in my [GRC-Labs](../GRC-Labs)
