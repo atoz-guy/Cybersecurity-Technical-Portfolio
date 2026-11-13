@@ -2,7 +2,7 @@
 
 Hands-on labs for Microsoft 365 information protection, governance and Zero Trust identity security. They're built around what a Microsoft compliance or GRC role actually does: classify data, stop it from leaking, prove compliance, and lock down identity.
 
-**Environment:** Microsoft 365 E5 Developer Tenant (Lab 8 was done on a free Entra ID tenant)
+**Environment:** Microsoft 365 E5 Developer Tenant (Labs 8 and 9 were done in my business's own Entra ID tenant)
 **Related certifications:** SC-401 Information Security Administrator, SC-300 Identity and Access Administrator, SC-100 Cybersecurity Architect, AZ-104 Azure Administrator
 
 ---
@@ -19,6 +19,7 @@ Hands-on labs for Microsoft 365 information protection, governance and Zero Trus
 | 6 | [Purview Retention & Records Management](06-microsoft-purview-retention-&-records-management) | 🔲 Not Started | Records management, retention |
 | 7 | [Defender for Office 365](07-microsoft-defender-for-office-365) | 🔲 Not Started | Email security, anti-phishing |
 | 8 | [Entra Security Defaults](08-microsoft-entra-security-defaults) | ✅ Complete | MFA enforcement, legacy auth blocking |
+| 9 | [Entra Custom Domain](09-microsoft-entra-custom-domain) | ✅ Complete | Domain verification, DNS, identity administration |
 
 Status: 🔲 Not Started · 🟡 In Progress · ✅ Complete
 

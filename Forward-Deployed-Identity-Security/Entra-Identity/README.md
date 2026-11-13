@@ -11,3 +11,5 @@ The identity layer, built on my SC-300 (Identity and Access Administrator) and S
 - [ ] **Access reviews:** regularly checking who still needs access, and removing who doesn't
 
 Related: my completed [Entra Security Defaults lab](../../Cloud-Security-Labs/M365/08-microsoft-entra-security-defaults) (MFA for every account, legacy sign-in blocked) and the planned [Conditional Access lab](<../../Cloud-Security-Labs/M365/03-microsoft-Entra-conditional-access-(zero-trust)>) in [Cloud-Security-Labs](../../Cloud-Security-Labs)
+
+Also done: [Lab 9: Custom domain in Entra ID](../../Cloud-Security-Labs/M365/09-microsoft-entra-custom-domain), moving my tenant's admin onto my business domain.
