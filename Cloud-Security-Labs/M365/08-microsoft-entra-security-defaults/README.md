@@ -27,5 +27,5 @@ On a free Microsoft Entra ID tenant, advanced identity tools like Privileged Ide
 ## Evidence
 *Email and tenant identifiers blurred for privacy.*
 
-<img width="1920" height="1128" alt="Entra Security Defaults evidence" src="https://github.com/user-attachments/assets/4238395f-977b-426a-b6ed-17605762a755" />
+![Entra Security Defaults enabled: organization protected by security defaults](lab8-security-defaults-evidence.png)
 
