@@ -1,4 +1,4 @@
-**# Lab 5: Microsoft Purview Insider Risk Management**
+# Lab 5: Microsoft Purview Insider Risk Management
  
 **Skill area:** Insider Risk, Governance, Enterprise Risk
 **Related exam:** SC-401

@@ -1,4 +1,4 @@
-**# Lab 7: Microsoft Defender for Office 365**
+# Lab 7: Microsoft Defender for Office 365
  
 **Skill area:** Email Security, Threat Protection, Anti-Phishing
 **Related exam:** SC-401 / SC-300

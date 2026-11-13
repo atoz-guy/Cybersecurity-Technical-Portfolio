@@ -18,7 +18,7 @@ Complete a compliance assessment in Microsoft Purview Compliance Manager against
 - Tenant type: Microsoft 365 E5 Developer Tenant
 - Licensing used: Microsoft Purview Compliance Manager
 - Assessment template used: TBD
-- Pre-requisites: None — baseline assessment run against default tenant configuration
+- Pre-requisites: None. Baseline assessment run against default tenant configuration
 ---
  
 ## Steps

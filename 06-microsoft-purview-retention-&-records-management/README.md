@@ -1,4 +1,4 @@
-**# Lab 6: Microsoft Purview Retention & Records Management**
+# Lab 6: Microsoft Purview Retention & Records Management
  
 **Skill area:** Governance, Records Management, Compliance Controls
 **Related exam:** SC-401
@@ -9,7 +9,7 @@
  
 ## Objective
  
-Create retention labels and policies, publish them across SharePoint/Exchange, and test retention and deletion behavior — including what happens when a user attempts to delete or modify content under an active retention label.
+Create retention labels and policies, publish them across SharePoint/Exchange, and test retention and deletion behavior, including what happens when a user attempts to delete or modify content under an active retention label.
  
 ---
  

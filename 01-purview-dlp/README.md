@@ -19,7 +19,7 @@ Demonstrate the ability to prevent unauthorized sharing of sensitive information
 - Tenant type: Microsoft 365 E5 Developer Tenant
 - Licensing used: Microsoft Purview (Compliance Center)
 - Test users/groups created: TBD
-- Pre-requisites: Sample sensitive data (mock SSNs, credit card numbers) generated for testing — no real PII used
+- Pre-requisites: Sample sensitive data (mock SSNs, credit card numbers) generated for testing. No real PII used.
 ---
  
 ## Steps
