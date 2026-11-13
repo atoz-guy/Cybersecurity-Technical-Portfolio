@@ -6,5 +6,4 @@ Risk scores use Likelihood x Impact. See the [risk matrix](risk-matrix.md).
 
 | Lab | Topic | Key controls |
 |---|---|---|
-| [Lab 001](Lab-001-Privileged-Access-Review.md) | Privileged access review | PS-4, AC-2, AC-7 |
 | [Lab 002](Lab-002-Phishing-Investigation.md) | Phishing and BEC investigation | IA-2(1), SI-8, AT-2 |
