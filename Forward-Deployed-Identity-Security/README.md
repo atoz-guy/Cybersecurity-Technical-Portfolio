@@ -6,6 +6,8 @@
 
 A forward deployed engineer doesn't just know a tool. They deploy it in a real environment, connect it to the systems around it, and make it part of how the business runs. This track is how I'm building toward that for identity and privileged access.
 
+It also means speaking two languages. I need to talk to a CISO about risk and accountability, then turn that into working controls and hand it off cleanly. My ISACA certs cover the first part. This track covers the second. ([How I see it](https://github.com/atoz-guy/GRC-Governance-Risk-Compliance/blob/main/Pathway.md#how-i-see-it))
+
 There are three layers:
 
 | Layer | Tool | What it does |
