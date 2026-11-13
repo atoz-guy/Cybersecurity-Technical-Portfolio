@@ -1,6 +1,5 @@
-**# Case Study #3 : Network-Connectivity Troubleshooting**
+# Case Study #3: Network Connectivity Troubleshooting
 
-# Network Connectivity Issue
 **Ticket ID:** #1042
 **Category:** Networking Basics
 **Priority:** High

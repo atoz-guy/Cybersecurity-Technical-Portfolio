@@ -30,4 +30,4 @@ Each one alone is useful. Connected, they answer the question every auditor asks
 
 Privileged access is one of the first things an audit looks at. NIST 800-53 controls like **AC-2** (account management), **AC-6** (least privilege) and **AU-2** (audit logging) all depend on it. This track is the hands-on side of those controls.
 
-**Related:** [ServiceNow-](https://github.com/atoz-guy/ServiceNow-) (SecOps certs) · [azure-labs](https://github.com/atoz-guy/azure-labs) (RBAC) · [GRC-Investigations](../GRC-Investigations)
+**Related:** [ServiceNow-](https://github.com/atoz-guy/ServiceNow-) (SecOps certs) · [Azure labs](../Cloud-Security-Labs/Azure) (RBAC) · [GRC-Investigations](../GRC-Investigations)

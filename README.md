@@ -15,7 +15,8 @@ For my GRC focus and roadmap, see [GRC-Governance-Risk-Compliance](https://githu
 | [SOC-Defensive-Labs](SOC-Defensive-Labs) | TCM Security PSAA labs: Wireshark, tcpdump, Snort, Splunk, endpoint triage, MITRE ATT&CK, YARA |
 | [GRC-Investigations](GRC-Investigations) | TCM Security PSAA cases taken further: a phishing and BEC investigation with risk scores, NIST 800-53 control gaps and remediation |
 | [Forward-Deployed-Identity-Security](Forward-Deployed-Identity-Security) | Work in progress: CyberArk PAM, Microsoft Entra, and connecting both to ServiceNow |
-| [Service-Desk-Labs](Service-Desk-Labs) | Access control and service desk work |
+| [Cloud-Security-Labs](Cloud-Security-Labs) | Azure (AZ-104) and Microsoft 365 compliance and identity labs |
+| [Service-Desk-Labs](Service-Desk-Labs) | Help desk case studies from TCM PHDA: lockouts, permissions, networking, ticket lifecycle |
 | [tools/simulations](tools/simulations) | Simulation projects |
 
 ---
@@ -33,5 +34,3 @@ For my GRC focus and roadmap, see [GRC-Governance-Risk-Compliance](https://githu
 
 - [Python-Automation-Lab](https://github.com/atoz-guy/Python-Automation-Lab): the GRC audit logger and risk scoring scripts used in these investigations
 - [ServiceNow-](https://github.com/atoz-guy/ServiceNow-): ServiceNow certs and builds
-- [azure-labs](https://github.com/atoz-guy/azure-labs): AZ-104 labs
-- [ms365-compliance-governance-security-labs](https://github.com/atoz-guy/ms365-compliance-governance-security-labs): Microsoft 365 compliance labs

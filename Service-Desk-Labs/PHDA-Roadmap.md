@@ -7,7 +7,7 @@ To ensure readiness, I am tracking my proficiency across the four pillars of the
 •	Operating System Utilities: Mastery of Windows/Linux command-line tools for diagnostics and system health monitoring.
 •	Active Directory (IAM): Practical experience in account management, group policy enforcement, and permission troubleshooting.
 •	Networking Basics: Proficient use of diagnostic protocols (ICMP, DHCP, DNS) to isolate and resolve connectivity issues.
-•	Remote Support & Ticketing: Demonstrated ability to manage the full lifecycle of an IT ticket—from initial discovery to resolution and formal Knowledge Base documentation.
+•	Remote Support & Ticketing: Demonstrated ability to manage the full lifecycle of an IT ticket, from initial discovery to resolution and formal Knowledge Base documentation.
 
 **Documentation Methodology:**
 I am building a verifiable portfolio of my progress in my Cloud-IT-Service-Management-Workflow repository. Each entry follows a rigorous, standardized format:

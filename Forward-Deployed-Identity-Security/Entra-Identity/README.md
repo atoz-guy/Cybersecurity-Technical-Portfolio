@@ -10,4 +10,4 @@ The identity layer, built on my SC-300 (Identity and Access Administrator) and S
 - [ ] **Privileged Identity Management (PIM):** just-in-time admin roles instead of permanent ones
 - [ ] **Access reviews:** regularly checking who still needs access, and removing who doesn't
 
-Related: my completed [Entra Security Defaults lab](https://github.com/atoz-guy/ms365-compliance-governance-security-labs/tree/main/08-microsoft-entra-security-defaults) (MFA for every account, legacy sign-in blocked) and the planned Conditional Access lab in [ms365-compliance-governance-security-labs](https://github.com/atoz-guy/ms365-compliance-governance-security-labs)
+Related: my completed [Entra Security Defaults lab](../../Cloud-Security-Labs/M365/08-microsoft-entra-security-defaults) (MFA for every account, legacy sign-in blocked) and the planned [Conditional Access lab](<../../Cloud-Security-Labs/M365/03-microsoft-Entra-conditional-access-(zero-trust)>) in [Cloud-Security-Labs](../../Cloud-Security-Labs)

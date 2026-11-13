@@ -1,6 +1,5 @@
-**Case #4: Network Connectivity Troubleshooting**
+# Case Study #4: User Permission and Access Management
 
-# User Permission and Access Management
 **Ticket ID:** #1042
 **Category:** Active Directory
 **Priority:** Medium

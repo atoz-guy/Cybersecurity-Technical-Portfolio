@@ -36,4 +36,4 @@ Status: 🔲 Not Started · 🟡 In Progress · ✅ Complete
 
 ---
 
-**Related:** [Forward-Deployed-Identity-Security](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/tree/main/Forward-Deployed-Identity-Security) (Entra and CyberArk track) · [GRC-Governance-Risk-Compliance](https://github.com/atoz-guy/GRC-Governance-Risk-Compliance)
+**Related:** [Forward-Deployed-Identity-Security](../../Forward-Deployed-Identity-Security) (Entra and CyberArk track) · [GRC-Governance-Risk-Compliance](https://github.com/atoz-guy/GRC-Governance-Risk-Compliance)

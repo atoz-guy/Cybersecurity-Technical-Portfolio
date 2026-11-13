@@ -1,6 +1,5 @@
-**# Case Study #2 : Cloud Account Lockout Resolution**
+# Case Study #2: Cloud Account Lockout Resolution
 
-# Cloud Account Lockout Resolution
 **Ticket ID:** #1043
 **Category:** Identity & Access Management (IAM)
 **Priority:** High
