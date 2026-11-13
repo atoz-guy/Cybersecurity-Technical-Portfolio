@@ -1,0 +1,34 @@
+**Case #4: Network Connectivity Troubleshooting**
+
+# User Permission and Access Management
+**Ticket ID:** #1042
+**Category:** Active Directory
+**Priority:** Medium
+
+### 1. Initial Assessment
+* **User Report:** User cannot access the 'Project-X' shared network drive. Received "Access Denied" error.
+* **Impact:** User unable to complete time-sensitive project work.
+  
+### 2. Troubleshooting Steps
+* **Step 1:** Verified user's Active Directory account status.
+* **Step 2:** Checked user's group memberships in ADUC.
+* **Step 3:** Identified that the user account was missing from the 'Project-X-Access' security group.
+
+### 3. Resolution
+* Added user account to the 'Project-X-Access' security group in Active Directory.
+* Instructed user to sign out and sign back in to refresh Group Policy.
+
+### 4. Verification
+* Confirmed with the user that the "Access Denied" error is resolved and the folder is accessible.
+
+### 5. Root Cause
+* User was missing the required security group membership for the specific network share.
+
+
+
+
+
+
+
+
+
