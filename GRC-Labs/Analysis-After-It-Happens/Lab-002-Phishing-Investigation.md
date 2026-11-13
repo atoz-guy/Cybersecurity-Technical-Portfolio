@@ -2,7 +2,7 @@
 
 **Source:** TCM Security PSAA, Phishing Analysis Challenge 1. The technical analysis is in my [SOC lab write-up](../../SOC-Defensive-Labs/challenge1-phishing-emails). This page takes it into GRC.  
 **Investigator:** [@atoz-guy](https://github.com/atoz-guy)  
-**Tools:** email header analysis, URL reputation scan, sandbox, [custom Python risk scoring](https://github.com/atoz-guy/Python-Automation-Lab/blob/main/grc_audit_logger_w-risk-scoring.py)  
+**Tools:** email header analysis, URL reputation scan, sandbox, CyberChef (defanging IOCs), [custom Python risk scoring](https://github.com/atoz-guy/Python-Automation-Lab/blob/main/grc_audit_logger_w-risk-scoring.py)  
 
 ## 1. What came in
 

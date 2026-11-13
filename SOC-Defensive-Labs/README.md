@@ -9,7 +9,7 @@ Hands-on defensive security work from TCM Security's Practical SOC Analyst Assoc
 - **Network analysis:** Wireshark, tcpdump, Snort
 - **Endpoint detection:** LimaCharlie (EDR), Sysmon, Windows Event Logs
 - **SIEM and logs:** Splunk (SPL), log correlation and pattern matching
-- **Threat intel:** YARA rules, MITRE ATT&CK mapping, MISP
+- **Threat intel:** YARA rules, MITRE ATT&CK mapping, MISP, CyberChef (defanging IOCs)
 - **Forensics:** FTK Imager, artifact triage
 
 ## Labs
