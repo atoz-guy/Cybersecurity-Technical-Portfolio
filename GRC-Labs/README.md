@@ -25,4 +25,24 @@ Something happens  →  Analysis: score it, map the failed control, recommend a 
                       Next time, it gets blocked before it happens
 ```
 
+## Policy as code works with any GRC platform
+
+The engineering side isn't tied to one product. The rules I write check settings and produce a pass or fail. A GRC platform like ServiceNow or Archer then uses that result as evidence.
+
+```
+Policy as code (GRC Playground)
+   → checks the setting automatically: "Is MFA on? Is this bucket public?"
+   → produces a pass or fail result
+            ↓
+GRC platform (ServiceNow or Archer)
+   → records the result as evidence for the control
+   → flags failures as issues, assigns owners, tracks the fix
+```
+
+**The rule does the checking. The platform does the tracking and proving.** The platforms don't run the rules themselves. They receive the results through integrations and use them for automated control testing, so evidence is collected all the time instead of by hand once a year.
+
+That's why I learn policy as code first: it plugs into whichever platform a company uses.
+
+---
+
 Risk scores use my [risk matrix](Analysis-After-It-Happens/risk-matrix.md) and the [risk scoring script](https://github.com/atoz-guy/Python-Automation-Lab) I wrote in Python.
