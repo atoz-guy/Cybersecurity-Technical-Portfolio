@@ -74,7 +74,7 @@ Dynamic Analysis Findings
 
 * **Mitigation Steps:** 
 	Isolated the affected endpoint from the network to prevent potential lateral movement.
-	Blocked the external domain raw.githubusercontent.com and the full image URL path at the perimeter firewall and web proxy.
+	Blocked the phishing host and the exact image URL path at the perimeter firewall and web proxy. I blocked the specific path, not all of raw.githubusercontent.com, because developers and tools rely on that domain.
 	Submitted the email artifact's SHA256 hash (91fc4aa2257b9c69684ac2bbc220ed7556c3db68cf725812ce365ef3febc8604) to the corporate EDR blocklist.
 
 Challenge screen shot:
