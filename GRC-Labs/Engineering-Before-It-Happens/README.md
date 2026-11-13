@@ -10,19 +10,17 @@ Labs are from [GRC Playground](https://github.com/ashpearce/GRC-Playground), a f
 
 ---
 
-## Planned labs
+## Labs
 
 | # | Lab | Control it enforces | Status |
 |---|---|---|---|
-| 01 | Deny public S3 buckets | AC-3 Access Enforcement: data storage isn't open to the internet | 🔲 Planned |
-| 02 | Block open security groups | SC-7 Boundary Protection: no network rules open to 0.0.0.0/0 | 🔲 Planned |
-| 03 | IAM policy audits | AC-6 Least Privilege: no overly broad permissions | 🔲 Planned |
+| 01 | [Deny Public S3 Buckets](01-Deny-Public-S3-Buckets) | AC-3 Access Enforcement: storage isn't open to the internet | 🔲 Planned |
+| 02 | [Block Open Security Groups](02-Block-Open-Security-Groups) | SC-7 Boundary Protection: no network rules open to 0.0.0.0/0 | 🔲 Planned |
+| 03 | [IAM Policy Audits](03-IAM-Policy-Audits) | AC-6 Least Privilege: no overly broad permissions | 🔲 Planned |
+| 04 | [MFA for Privileged Accounts](04-MFA-for-Privileged-Accounts) | IA-2(1) Multi-Factor Authentication | 🔲 Planned |
+| 05 | [Control Mapping for Beginners](05-Control-Mapping-for-Beginners) | Connecting NIST 800-53 controls to technical settings | 🔲 Planned |
 
-## My own rule (after the labs)
-
-| Rule | Comes from | Control |
-|---|---|---|
-| Flag any account without MFA | The top finding in my [phishing investigation](../Analysis-After-It-Happens/Lab-002-Phishing-Investigation.md) | IA-2(1) Multi-Factor Authentication |
+**Where the two sides meet:** Lab 04 enforces MFA, which was the top finding in my [phishing investigation](../Analysis-After-It-Happens/Lab-002-Phishing-Investigation.md). One side found the gap, this side closes it.
 
 ---
 

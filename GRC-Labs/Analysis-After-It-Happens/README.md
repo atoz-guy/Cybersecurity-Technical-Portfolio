@@ -6,4 +6,4 @@ Risk scores use Likelihood x Impact. See the [risk matrix](risk-matrix.md).
 
 | Lab | Topic | Key controls |
 |---|---|---|
-| [Lab 002](Lab-002-Phishing-Investigation.md) | Phishing and BEC investigation | IA-2(1), SI-8, AT-2 |
+| [Lab 002](Lab-002-Phishing-Investigation.md) | Credential phishing (Microsoft impersonation) | SI-8, IA-2(1), AT-2, SC-7 |

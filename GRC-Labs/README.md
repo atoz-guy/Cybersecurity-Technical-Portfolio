@@ -13,7 +13,7 @@ GRC work happens on both sides of an incident.
 
 Analysis finds the gap. Engineering closes it for good.
 
-For example, my phishing investigation ends with "turn on MFA for every account." On the engineering side, that recommendation becomes a rule that rejects any account set up without MFA, so nobody has to remember to check.
+For example, my phishing investigation found that MFA was the missing control. On the engineering side, [Lab 04](Engineering-Before-It-Happens/04-MFA-for-Privileged-Accounts) turns that into a rule that enforces MFA automatically, so nobody has to remember to check.
 
 ```
 Something happens  →  Analysis: score it, map the failed control, recommend a fix
