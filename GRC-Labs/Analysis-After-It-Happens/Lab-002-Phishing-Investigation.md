@@ -1,6 +1,7 @@
 # Lab 002: Credential Phishing Investigation (Microsoft Impersonation)
 
 **Source:** TCM Security PSAA, Phishing Analysis Challenge 1. The technical analysis is in my [SOC lab write-up](../../SOC-Defensive-Labs/challenge1-phishing-emails). This page takes it into GRC.  
+**MITRE ATT&CK:** T1566.002 Phishing: Spearphishing Link  
 **Investigator:** [@atoz-guy](https://github.com/atoz-guy)  
 **Tools:** email header analysis, URL reputation scan, sandbox, CyberChef (defanging IOCs), [custom Python risk scoring](https://github.com/atoz-guy/Python-Automation-Lab/blob/main/grc_audit_logger_w-risk-scoring.py)  
 
@@ -59,10 +60,9 @@ Scored with my risk scoring script (Risk = Likelihood x Impact), using my [risk 
 ## 6. Remediation
 
 **Immediate**
-- Isolated the affected endpoint to prevent lateral movement
 - Blocked the phishing host and the exact image URL at the firewall and web proxy. I blocked the specific path, not all of `raw.githubusercontent.com`, since developers rely on it.
 - Added the file hash to the EDR blocklist
-- If anyone entered their password: reset it and review recent sign-ins
+- If a user clicked or entered their password: isolate the endpoint, reset the password and review recent sign-ins. If they only received it, remove it from mailboxes.
 
 **Follow-up**
 - Require MFA for all users, starting with admins and privileged accounts
