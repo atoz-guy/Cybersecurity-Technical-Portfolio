@@ -6,7 +6,7 @@ This is where my hands-on security work lives. Labs show I can do the technical 
 
 For my GRC focus and roadmap, see [GRC-Governance-Risk-Compliance](https://github.com/atoz-guy/GRC-Governance-Risk-Compliance).
 
----
+----
 
 ## What's here
 
