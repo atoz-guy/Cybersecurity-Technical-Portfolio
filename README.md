@@ -12,7 +12,7 @@ For my GRC focus and roadmap, see [GRC-Governance-Risk-Compliance](https://githu
 
 | Folder | What's in it | Related certs |
 |---|---|---|
-| [SOC-Defensive-Labs](SOC-Defensive-Labs) | TCM Security PSAA labs: Wireshark, tcpdump, Snort, Splunk, endpoint triage, MITRE ATT&CK, YARA | Security+, Google Cybersecurity, ServiceNow CIS-SIR, TCM PSAA (in progress) |
+| [SOC-Defensive-Labs](SOC-Defensive-Labs) | TCM Security PSAA labs: Wireshark, tcpdump, Snort, Splunk, endpoint triage, MITRE ATT&CK, YARA, plus my own log analysis guide and practice lab | Security+, Google Cybersecurity, ServiceNow CIS-SIR, TCM PSAA (in progress) |
 | [GRC-Labs](GRC-Labs) | **Analysis (after it happens):** credential phishing investigation with risk scores, NIST 800-53 gaps and remediation. **Engineering (before it happens):** 5 policy-as-code labs from GRC Playground | CRISC (exam passed), ServiceNow CIS-RC, CISM (next) |
 | [Forward-Deployed-Identity-Security](Forward-Deployed-Identity-Security) | Work in progress: CyberArk PAM, Microsoft Entra, and connecting both to ServiceNow | SC-300, SC-100, ServiceNow SecOps, CyberArk (planned) |
 | [Cloud-Security-Labs](Cloud-Security-Labs) | Azure and Microsoft 365 compliance and identity labs | AZ-104, SC-300, SC-401, SC-100 |

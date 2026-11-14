@@ -1,0 +1,33 @@
+2026-03-10 02:00:03 | BACKUP-01   | Login_Success   | User: svc_backup  | IP: 10.0.5.20     | scheduled job nightly-backup
+2026-03-10 02:00:05 | FILESRV-01  | File_Download   | User: svc_backup  | IP: 10.0.5.20     | share=/finance (14.2 GB)
+2026-03-10 02:41:17 | BACKUP-01   | Logoff          | User: svc_backup  | IP: 10.0.5.20
+2026-03-10 03:11:52 | VPN-GW      | Login_Failed    | User: admin       | IP: 203.0.113.45  | bad password
+2026-03-10 03:11:55 | VPN-GW      | Login_Failed    | User: admin       | IP: 203.0.113.45  | bad password
+2026-03-10 03:11:58 | VPN-GW      | Login_Failed    | User: admin       | IP: 203.0.113.45  | bad password
+2026-03-10 03:12:02 | VPN-GW      | Login_Failed    | User: admin       | IP: 203.0.113.45  | bad password
+2026-03-10 03:12:05 | VPN-GW      | Login_Failed    | User: admin       | IP: 203.0.113.45  | bad password
+2026-03-10 03:12:09 | VPN-GW      | Login_Failed    | User: admin       | IP: 203.0.113.45  | bad password
+2026-03-10 03:12:13 | VPN-GW      | Login_Failed    | User: admin       | IP: 203.0.113.45  | bad password
+2026-03-10 03:12:16 | VPN-GW      | Login_Failed    | User: admin       | IP: 203.0.113.45  | bad password
+2026-03-10 03:14:40 | VPN-GW      | Login_Success   | User: admin       | IP: 203.0.113.45  | location=Unknown
+2026-03-10 03:16:21 | DC-01       | Account_Created | User: admin       | IP: 203.0.113.45  | new_user=support_tmp
+2026-03-10 03:16:48 | DC-01       | Group_Changed   | User: admin       | IP: 203.0.113.45  | user=support_tmp added_to=Domain Admins
+2026-03-10 03:21:05 | FILESRV-01  | File_Download   | User: support_tmp | IP: 203.0.113.45  | file=/hr/payroll_2026.xlsx (1.8 GB)
+2026-03-10 03:24:30 | FILESRV-01  | Connection_Out  | User: SYSTEM      | IP: 10.0.5.30     | dest=198.51.100.23:4444 process=C:\Users\Public\Temp\upd.exe
+2026-03-10 03:31:12 | VPN-GW      | Logoff          | User: admin       | IP: 203.0.113.45
+2026-03-10 07:58:10 | WKS-MARIA   | Login_Success   | User: maria       | IP: 10.0.1.21     | location=San Diego
+2026-03-10 08:02:44 | WKS-JLEE    | Login_Failed    | User: jlee        | IP: 10.0.1.34     | bad password
+2026-03-10 08:02:59 | WKS-JLEE    | Login_Success   | User: jlee        | IP: 10.0.1.34     | location=San Diego
+2026-03-10 08:15:02 | WKS-TNGUYEN | Login_Success   | User: tnguyen     | IP: 10.0.1.40     | location=San Diego
+2026-03-10 09:02:11 | M365        | Login_Success   | User: jlee        | IP: 10.0.1.34     | location=San Diego
+2026-03-10 09:06:37 | M365        | Login_Success   | User: jlee        | IP: 192.0.2.80    | location=Frankfurt, DE via=CompanyVPN-EU
+2026-03-10 10:30:45 | FILESRV-01  | File_Download   | User: maria       | IP: 10.0.1.21     | file=/sales/q1_report.pdf (2.1 MB)
+2026-03-10 12:05:19 | FILESRV-01  | File_Download   | User: tnguyen     | IP: 10.0.1.40     | file=/marketing/logo_pack.zip (48 MB)
+2026-03-10 13:40:02 | WKS-MARIA   | Login_Failed    | User: maria       | IP: 10.0.1.21     | bad password
+2026-03-10 13:40:20 | WKS-MARIA   | Login_Success   | User: maria       | IP: 10.0.1.21     | location=San Diego
+2026-03-10 17:02:33 | WKS-JLEE    | Logoff          | User: jlee        | IP: 10.0.1.34
+2026-03-10 17:30:50 | WKS-MARIA   | Logoff          | User: maria       | IP: 10.0.1.21
+2026-03-10 17:45:12 | WKS-TNGUYEN | Logoff          | User: tnguyen     | IP: 10.0.1.40
+2026-03-10 22:00:04 | DC-01       | Login_Success   | User: it_admin    | IP: 10.0.9.5      | location=San Diego ticket=CHG-1042
+2026-03-10 22:07:40 | DC-01       | Group_Changed   | User: it_admin    | IP: 10.0.9.5      | user=tnguyen added_to=Marketing-Share ticket=CHG-1042
+2026-03-10 22:15:09 | DC-01       | Logoff          | User: it_admin    | IP: 10.0.9.5

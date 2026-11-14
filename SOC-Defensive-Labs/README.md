@@ -27,6 +27,7 @@ Hands-on defensive security work from TCM Security's Practical SOC Analyst Assoc
 | 07 | [Linux endpoint](challenge7-linux-endpoint) | Linux logs and process triage |
 | 08 | [MITRE ATT&CK](challenge8-mitre-att&ck) | Mapping activity to techniques |
 | 09 | [YARA](challenge9-yara) | Writing malware signatures |
+| 10 | [Read Logs Like a Detective](challenge10-read-logs-like-a-detective) | My beginner guide to log analysis + a practice lab with a hidden break-in, false alarms and a Python red-flag finder |
 
 There's also a [phishing report template](phishing-template) I use for write-ups.
 
