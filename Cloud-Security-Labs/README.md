@@ -1,4 +1,4 @@
-# Cloud Security Labs
+# Cloud Security Labs 
 
 Hands-on Microsoft cloud labs: Azure infrastructure and governance, and Microsoft 365 compliance and identity security.
 
