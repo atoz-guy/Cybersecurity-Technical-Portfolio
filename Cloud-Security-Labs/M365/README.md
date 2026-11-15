@@ -7,7 +7,7 @@ Hands-on labs for Microsoft 365 information protection, governance and Zero Trus
 
 ---
 
-## Lab index
+## Lab index 
 
 | # | Lab | Status | Skills |
 |---|---|---|---|
