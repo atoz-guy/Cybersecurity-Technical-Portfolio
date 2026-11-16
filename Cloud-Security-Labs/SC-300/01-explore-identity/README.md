@@ -9,26 +9,22 @@
 
 ## What I did
 
-### 1. Created a user
+### 1. Created and managed Microsoft Entra users
 ![Users list with the new test user Akonman](screenshots/01-add-user.png)
 
-Created **Akonman**, a test user, alongside the real staff accounts. Staff follow my naming scheme (**atozNN**), so every account traces back to one person. Real names are blurred.
+Created a test user account named **Akonman** in the AtoZ CyberLabs Microsoft Entra tenant, alongside the existing staff accounts. This exercise showed user provisioning and centralized identity management, supporting NIST AC-2 (Account Management). Real names are blurred.
 
 <!-- AJ: why did you mark test users with a * in front of the name? -->
 
-### 2. Gave the user only the roles they need
+### 2. Configured Microsoft Entra roles and least privilege
 ![Akonman's assigned roles: Authentication Administrator and License Administrator](screenshots/02-assign-roles.png)
 
-Instead of making the user a Global Administrator, I gave two narrow built-in roles:
-- **Authentication Administrator:** can reset sign-in methods for regular (non-admin) users
-- **License Administrator:** can manage product licenses on users and groups
+Assigned Akonman the **Authentication Administrator** and **License Administrator** roles instead of Global Administrator. That's enough to handle a lockout or a new hire's license without handing over the whole tenant. It's role-based access control (RBAC) and least privilege in practice, supporting NIST AC-6 (Least Privilege).
 
-That's enough to handle a "help, I'm locked out" call or a new hire's license, without the keys to the whole tenant.
-
-### 3. Made my business domain the primary domain
+### 3. Changed the primary domain to the business domain
 ![atozcyberlabs.com verified and set as the primary domain](screenshots/03-primary-domain.png)
 
-Changed the primary domain from the default **atozcybercloud.onmicrosoft.com** to **atozcyberlabs.com**. New accounts now get @atozcyberlabs.com by default. Verifying the domain was an earlier lab: [M365 Lab 09: Entra custom domain](../../M365/09-microsoft-entra-custom-domain).
+Changed the primary domain from the default onmicrosoft.com address to **atozcyberlabs.com**, so new accounts get the business domain. Every account now carries the same organizational identity, supporting NIST IA-4 (Identifier Management). Verifying the domain was an earlier lab: [M365 Lab 09: Entra custom domain](../../M365/09-microsoft-entra-custom-domain).
 
 ## NIST SP 800-53 mapping
 
