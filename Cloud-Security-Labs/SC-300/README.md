@@ -12,7 +12,7 @@ For each module I show what I set up, why it matters, and which NIST SP 800-53 c
 
 | # | Module | What I did in my tenant | NIST | Status |
 |---|---|---|---|---|
-| 01 | [Explore identity in Microsoft Entra ID](01-explore-identity) | Mapped the module's concepts to my own tenant: domains, users, groups, naming scheme | AC-2, IA-4 | 🟡 In progress |
+| 01 | [Explore identity in Microsoft Entra ID](01-explore-identity) | Created a user, assigned least-privilege roles, made atozcyberlabs.com the primary domain | AC-2, AC-6, IA-4 | 🟡 AJ's notes to add |
 
 ---
 
