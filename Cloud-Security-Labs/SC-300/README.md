@@ -4,6 +4,8 @@ My course log for the Microsoft Certified: Identity and Access Administrator Ass
 
 For each module I show what I set up, why it matters, and which NIST SP 800-53 control it supports.
 
+**Status:** Microsoft Learn path completed November 2026. Exam next.
+
 **Exam domains:** manage user identities · authentication and access management · workload identities · identity governance
 
 ---
