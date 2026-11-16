@@ -11,6 +11,7 @@ Hands-on Microsoft cloud labs: Azure infrastructure and governance, and Microsof
 | Folder | What's in it |
 |---|---|
 | [Azure](Azure) | AZ-104 labs: subscriptions and RBAC, hub-and-spoke networking |
+| [SC-300](SC-300) | My SC-300 course log, with every module done in my real Entra tenant and mapped to NIST |
 | [M365](M365) | Purview DLP, sensitivity labels, Compliance Manager, insider risk, retention, Defender for Office 365, Entra Security Defaults |
 
 ---
