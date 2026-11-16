@@ -40,6 +40,27 @@ What the review confirmed:
 - **Global privacy contact:** added in this lab (blurred here)
 - **Gap found:** the **privacy statement URL is empty**. My website doesn't have a privacy page yet. Adding one, then linking it here, is on my to-do list (NIST PT-5, Privacy Notice).
 
+### 5. External users: where guests come in
+![New user menu showing Create new user and Invite external user](screenshots/05-invite-external-user.png)
+
+**Invite external user** is how outside people (a vendor, a contractor, an accountant) get a guest account in the tenant. Because that door exists, the next step was deciding who's allowed to open it and what guests can see. Real names, the admin account and the break-glass account are blurred.
+
+### 6. Locked down guest access and guest invites
+**Before** (invites open to anyone in the organization):
+![Guest settings before: anyone in the organization can invite guests](screenshots/06-guest-settings-before.png)
+
+**After** (invites limited to specific admin roles):
+![Guest settings after: only users in specific admin roles can invite guests](screenshots/07-guest-settings-after.png)
+
+| Setting | Before | After |
+|---|---|---|
+| Guest user access | Most restrictive | Most restrictive (kept) |
+| Who can invite guests | Anyone in the organization, including guests and non-admins | Only users assigned to specific admin roles |
+
+**Why I chose this:** I chose the most restrictive guest access setting so external users can only view information related to their own directory objects, which limits unnecessary exposure of tenant data. I also restricted guest invitations to users in specific administrative roles so external collaboration is controlled, reviewed, and aligned with least privilege and Zero Trust principles.
+
+With invites open to anyone, any staff account, or a hacked one, could bring an outsider into the tenant. Now that takes an admin.
+
 ## NIST SP 800-53 mapping
 
 | Control | Name | How this lab supports it |
@@ -49,6 +70,8 @@ What the review confirmed:
 | IA-4 | Identifier Management | One naming scheme and one business domain for every account |
 | CM-3 | Configuration Change Control | Reviewed tenant settings in production and only made the one change that was needed |
 | PM-19 | Privacy Program Leadership Role | Added a named global privacy contact for the tenant |
+| AC-3 | Access Enforcement | Guests can only see their own directory objects |
+| AC-6 | Least Privilege (guests) | Only specific admin roles can invite external users |
 | PT-5 | Privacy Notice | Found the missing privacy statement URL and logged it as a follow-up |
 
 ## Privacy
