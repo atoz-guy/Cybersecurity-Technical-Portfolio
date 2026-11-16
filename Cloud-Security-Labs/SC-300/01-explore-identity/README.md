@@ -26,15 +26,18 @@ Assigned Akonman the **Authentication Administrator** and **License Administrato
 
 Changed the primary domain from the default onmicrosoft.com address to **atozcyberlabs.com**, so new accounts get the business domain. Every account now carries the same organizational identity, supporting NIST IA-4 (Identifier Management). Verifying the domain was an earlier lab: [M365 Lab 09: Entra custom domain](../../M365/09-microsoft-entra-custom-domain).
 
-### 4. Reviewed tenant-wide properties (and chose not to change them)
+### 4. Reviewed tenant-wide properties and added a privacy contact
 ![Tenant properties: name, region, data location and contacts](screenshots/04-tenant-properties.png)
 
-The lab asks you to change the tenant display name. This is my live business tenant, and that name shows on my staff's sign-in pages and emails, so I reviewed the settings and **left them as they are**. Knowing when not to click Save on a production system is part of the job (NIST CM-3, Configuration Change Control).
+The lab asks you to change the tenant display name. This is my live business tenant, and that name shows on my staff's sign-in pages and emails, so I **kept the name as it is**. Knowing when not to click Save on a production system is part of the job (NIST CM-3, Configuration Change Control).
+
+The one change I did make: the tenant had **no global privacy contact**, so I added one. Microsoft uses it to reach someone about privacy and data protection questions, and every business should have a named person for that (NIST PM-19, Privacy Program Leadership Role).
 
 What the review confirmed:
 - **Name:** AtoZ CyberLabs, matching the new brand
 - **Data location:** United States datacenters
-- **Technical and privacy contacts:** set (blurred here)
+- **Technical contact:** set (blurred here)
+- **Global privacy contact:** added in this lab (blurred here)
 - **Gap found:** the **privacy statement URL is empty**. My website doesn't have a privacy page yet. Adding one, then linking it here, is on my to-do list (NIST PT-5, Privacy Notice).
 
 ## NIST SP 800-53 mapping
@@ -44,7 +47,8 @@ What the review confirmed:
 | AC-2 | Account Management | New accounts are created in one place, with a type and a clear owner |
 | AC-6 | Least Privilege | The user got two narrow roles instead of Global Administrator |
 | IA-4 | Identifier Management | One naming scheme and one business domain for every account |
-| CM-3 | Configuration Change Control | Reviewed tenant settings in production without making an unplanned change |
+| CM-3 | Configuration Change Control | Reviewed tenant settings in production and only made the one change that was needed |
+| PM-19 | Privacy Program Leadership Role | Added a named global privacy contact for the tenant |
 | PT-5 | Privacy Notice | Found the missing privacy statement URL and logged it as a follow-up |
 
 ## Privacy
