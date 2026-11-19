@@ -1,6 +1,6 @@
 # Engineering: Before It Happens
 
-*Planned. My own rules, test results and notes will go here as I complete each lab.*
+*Planned. My own rules, test results and notes will go here as I complete each lab.* 
 
 This is the GRC engineering side: writing **policy as code**. Instead of a written policy that says "don't do this," the control is a rule that checks every change and blocks the bad ones automatically. It runs every time, not once a year at audit.
 
