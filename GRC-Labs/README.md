@@ -11,7 +11,7 @@ GRC work happens on both sides of an incident.
 
 ---
 
-## How they connect
+## How they connect 
 
 Analysis finds the gap. Engineering closes it for good.
 
