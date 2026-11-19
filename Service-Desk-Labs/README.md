@@ -10,7 +10,7 @@ This is the ITSM foundation under my ServiceNow work. Ticket lifecycle, prioriti
 
 ---
 
-## How I work a ticket
+## How I work a ticket 
 
 1. **Acknowledge:** confirm I got it and set expectations with the user
 2. **Triage:** set the priority and category
