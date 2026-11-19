@@ -33,4 +33,4 @@ For my GRC focus and roadmap, see [GRC-Governance-Risk-Compliance](https://githu
 ## Related repos
 
 - [Python-Automation-Lab](https://github.com/atoz-guy/Python-Automation-Lab): the GRC audit logger and risk scoring scripts used in these investigations
-- [ServiceNow-](https://github.com/atoz-guy/ServiceNow-): ServiceNow certs and builds
+- [ServiceNow](https://github.com/atoz-guy/ServiceNow): ServiceNow certs and builds
