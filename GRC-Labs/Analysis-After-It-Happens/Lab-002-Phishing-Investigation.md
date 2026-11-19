@@ -1,4 +1,4 @@
-# Lab 002: Credential Phishing Investigation (Microsoft Impersonation)
+# Lab 002: Credential Phishing Investigation (Microsoft Impersonation) 
 
 **Source:** TCM Security PSAA, Phishing Analysis Challenge 1. The technical analysis is in my [SOC lab write-up](../../SOC-Defensive-Labs/challenge1-phishing-emails). This page takes it into GRC.  
 **MITRE ATT&CK:** T1566.002 Phishing: Spearphishing Link  
