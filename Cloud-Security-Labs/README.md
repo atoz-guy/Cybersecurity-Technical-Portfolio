@@ -1,6 +1,6 @@
 # Cloud Security Labs 
 
-Hands-on Microsoft cloud labs: Azure infrastructure and governance, and Microsoft 365 compliance and identity security.
+Hands-on Microsoft cloud labs: Azure infrastructure and governance, and Microsoft 365 compliance and identity security. 
 
 **Related certifications:** AZ-104 Azure Administrator, SC-300 Identity and Access Administrator, SC-401 Information Security Administrator, SC-100 Cybersecurity Architect
 
