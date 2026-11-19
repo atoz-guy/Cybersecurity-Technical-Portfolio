@@ -12,7 +12,7 @@ A collection of hands-on Microsoft Azure labs focused on AZ-104 Administrator sk
   Covers management groups, RBAC inheritance, and custom role creation.
 
 - **Hub-and-Spoke Virtual Network Architecture**  
-  Folder: [`azure_104_hub-and-spoke-lab-summary`](azure_104_hub-and-spoke-lab-summary)
+  Folder: [`azure_104_hub-and-spoke-lab-summary`](azure_104_hub-and-spoke-lab-summary) 
   Covers VNet design, peering, routing, and shared services architecture.
   
 ---
